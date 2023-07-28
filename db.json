@@ -1,5 +1,7 @@
 {
-  "users": [
+  //no puedo cambiar endpoints como users y worlds
+  "users": {
+    "users":[
     {
       "id":1,
       "username":"manolo",
@@ -15,6 +17,7 @@
       "username":"escandon",
       "state":true
     }
-  ],
+  ]
+  },
   "worlds":[1,2,3,4,5,6,7,8]
 }
