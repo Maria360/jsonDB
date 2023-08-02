@@ -1,7 +1,7 @@
 {
 
-  "users": {
-    "users":[
+  "users": [
+    
     {
       "id":1,
       "username":"manolo",
