@@ -4,20 +4,20 @@
     
     {
       "id":1,
-      "username":"Maria",
+      "username":"MARIA",
       "state":true,
       "deck":[1,2,3,4,5]
       
     },
     {
       "id":2,
-      "username":"Santiago",
+      "username":"JOSE",
       "state":true,
       "deck":[10,20,30,40,50]
     },
     {
       "id":3,
-      "username":"Cristina",
+      "username":"JESUS",
       "state":true,
       "deck":[100,200,300,400,500]
     }
